@@ -1,0 +1,22 @@
+{
+  "name": "filmes",
+  "version": "1.0.0",
+  "description": "My splendid Nuxt.js project",
+  "author": "Igor Souza Martins",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nulldreams/vue-loading": "0.0.1",
+    "nuxt": "^1.0.0",
+    "vue-resource": "^1.5.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
