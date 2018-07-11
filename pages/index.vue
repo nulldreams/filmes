@@ -98,6 +98,7 @@ export default {
   border-bottom-left-radius: .50em;
   border: none;
   box-shadow: 0 0 30px rgba(115,128,157, .2);
+  margin: 10px;
 }
 .principal .header .search .left input {
   width: 100%;
