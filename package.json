@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nulldreams/vue-loading": "0.0.1",
+    "@nuxtjs/google-tag-manager": "^2.0.0",
     "nuxt": "^1.0.0",
     "vue-resource": "^1.5.1",
     "vuex": "^3.0.1"
